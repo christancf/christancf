@@ -1,7 +1,13 @@
-### Hi there, this is Christan. 👋
+### Hi there, this is Christan. 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=christancf)
 
 ![Christan's Github stats](https://github-readme-stats.vercel.app/api?username=christancf&show_icons=true)
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christancf&layout=compact)
+
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<!--[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)-->
 <!--
 **christancf/christancf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
