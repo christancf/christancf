@@ -1,4 +1,4 @@
-### Hi there, this is Christan. 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=christancf)
+### Hey there, this is Christan. 👋 
 
 ![Christan's Github stats](https://github-readme-stats.vercel.app/api?username=christancf&show_icons=true)
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christancf&layout=compact)
