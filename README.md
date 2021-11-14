@@ -4,9 +4,9 @@
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christancf&layout=compact)
 
 
-## 😂 Here is a random joke that'll make you laugh!
+<!--## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
+-->
 <!--[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)-->
 <!--
 **christancf/christancf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
